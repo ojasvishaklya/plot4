@@ -1,0 +1,41 @@
+
+.grid{
+    all:unset;
+    height: 650px;
+    width: 700px;
+    border: 5px solid rgb(155, 105, 196);
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid div{
+    all:unset;
+    text-align: center;
+    height: 96px;
+    width: 96px;
+    background-color: cornsilk;
+    border: 2px solid gainsboro;
+
+}
+.grid .base{
+    height: 50px;
+    border: 2px solid rgb(155, 105, 196);
+        background-color :rgb(155, 105, 196);
+}
+
+.p1Select{
+    background-color: #4d79ff;
+    border: 2px solid gray;
+    border-bottom-right-radius: 10px;
+}
+.p2Select{
+    background-color: #ff4d4d;
+    border: 2px solid gray;
+    border-bottom-right-radius: 10px;
+}
+
+.p1{
+}
+
+
+.p2{
+}
